@@ -350,6 +350,10 @@ section {
     background: none;
 }
 
+.profilepic {
+    border-radius: 10rem;
+}
+
 /* ABOUT SECTION */
 
 #about {
