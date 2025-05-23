@@ -469,8 +469,13 @@ article .icon {
     color: black;
 }
 
-.project-btn {
+.project-btn1 {
     color: black;
+    border-color: rgb(163, 163, 163);
+}
+
+.project-btn2 {
+    color: white;
     border-color: rgb(163, 163, 163);
 }
 
